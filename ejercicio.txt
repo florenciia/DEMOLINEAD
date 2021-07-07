@@ -1,0 +1,14 @@
+- Armar una web muy básica con un menu, header con título, formulario y footer. 
+    Se puede utilizar bootstrap o Material Design, no se puede utilizar un builder.
+    Debe quedar similar a lo que se puede ver en los archivos Desktop.jpg y Mobile.jpg.
+    Las imagenes a utilizar estan en images, la font es (https://fonts.google.com/specimen/Rubik).
+
+
+- Programar una funcion en JavaScript que:
+    - Genere un array de 10 números enteros aleatoriamente.
+    - Loguear ese array en consola.
+    - Quedarse sólamente con los números impares.
+    - Elevar los números al cubo.
+    - Ordenar los números de menor a mayor.
+    - Devolver el array resultante por consola.
+    
